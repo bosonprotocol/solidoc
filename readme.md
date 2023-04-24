@@ -105,12 +105,3 @@ If you wish to change bits and pieces of the documentation generated, place `sol
 You can also override language literals by copying and editing `i18n` files on the following path:
 
 `./.solidoc/i18n/`
-
-
-
-## Before You Try
-
-- [OpenZeppelin Solidity Documentation](https://github.com/binodnp/openzeppelin-solidity/blob/master/docs/ERC721.md)
-- [Open Source Vesting Schedule by Binod](https://github.com/binodnp/vesting-schedule/blob/master/docs/VestingSchedule.md)
-- [Virtual Rehab Token](https://github.com/ViRehab/VirtualRehabToken/blob/master/docs/VRHToken.md)
-- [Virtual Rehab Private Sale](https://github.com/ViRehab/VirtualRehabPrivateSale/blob/master/docs/PrivateSale.md)
